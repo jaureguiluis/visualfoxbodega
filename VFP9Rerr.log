@@ -1,0 +1,79 @@
+
+
+Error grave: código de excepción=C0000005 @   /  /       :  :  . Archivo de registro de errores: C:\sisadm119\VFP9Rerr.log
+	Llamado desde -  menug.cjmenu.click line 9  {c:\sisadm119\menu.sct c:\sisadm119\menu.sct}
+	Llamado desde -  main line 19  {C:\sisadm\main.prg c:\sisadm119\sisadm.exe}
+
+
+Error grave: código de excepción=C0000005 @   /  /       :  :  . Archivo de registro de errores: C:\sisadm119\VFP9Rerr.log
+	Llamado desde -  menug.cjmenu.click line 9  {c:\sisadm119\menu.sct c:\sisadm119\menu.sct}
+	Llamado desde -  main line 19  {C:\sisadm\main.prg c:\sisadm119\sisadm.exe}
+
+
+Error grave: código de excepción=C0000005 @   /  /       :  :  . Archivo de registro de errores: C:\sisadm119\VFP9Rerr.log
+	Llamado desde -  menug.cjmenu.click line 9  {c:\sisadm119\menu.sct c:\sisadm119\menu.sct}
+	Llamado desde -  main line 19  {C:\sisadm119\main.prg c:\sisadm119\sisadm.exe}
+
+
+Error grave: código de excepción=C0000005 @   /  /       :  :  . Archivo de registro de errores: C:\sisadm119\VFP9Rerr.log
+	Llamado desde -  menug.cjmenu.click line 9  {c:\sisadm119\menu.sct c:\sisadm119\menu.sct}
+	Llamado desde -  main line 19  {C:\sisadm119\main.prg c:\sisadm119\sisadm.exe}
+
+
+Error grave: código de excepción=C0000005 @ 23/07/2016 08:44. Archivo de registro de errores: C:\sisadm119\VFP9Rerr.log
+	Llamado desde -  main line 42  {C:\sisadm119\main.prg c:\sisadm119\sisadm.exe}
+
+
+Error grave: código de excepción=C0000006 @ 19/10/2016 13:11. Archivo de registro de errores: \\HP-01\Ventas\sisadm119\VFP9Rerr.log
+	Llamado desde -  forma_rep.destroy line 1  {\\hp-01\ventas\sisadm119\inv_r_salida.sct \\hp-01\ventas\sisadm119\inv_r_salida.sct}
+	Llamado desde -  minventario.rsalida.click line 1  {\\hp-01\ventas\sisadm119\inv_m_menu.sct \\hp-01\ventas\sisadm119\inv_m_menu.sct}
+	Llamado desde -  menug.ipmenu.click line 5  {\\hp-01\ventas\sisadm119\menu.sct \\hp-01\ventas\sisadm119\menu.sct}
+	Llamado desde -  main line 42  {\\HP-01\Ventas\sisadm119\main.prg \\hp-01\ventas\sisadm119\sisadm.exe}
+
+
+Error grave: código de excepción=C0000006 @ 25/11/2016 15:55. Archivo de registro de errores: \\HP-01\Ventas\sisadm119\VFP9Rerr.log
+	Llamado desde -  mventa.rsalida.click line 1  {\\hp-01\ventas\sisadm119\cja_m_menu.sct \\hp-01\ventas\sisadm119\cja_m_menu.sct}
+	Llamado desde -  menug.cjmenu.click line 9  {\\hp-01\ventas\sisadm119\menu.sct \\hp-01\ventas\sisadm119\menu.sct}
+	Llamado desde -  main line 42  {\\HP-01\Ventas\sisadm119\main.prg \\hp-01\ventas\sisadm119\sisadm.exe}
+
+
+Error grave: código de excepción=C0000006 @ 20/04/2017 11:23. Archivo de registro de errores: \\HP-01\Ventas\sisadm119\VFP9Rerr.log
+	Llamado desde -  pventa.xwrite.click line 47  {\\hp-01\ventas\sisadm119\tab_c_ticket.sct \\hp-01\ventas\sisadm119\tab_c_ticket.sct}
+	Llamado desde -  main line 42  {\\HP-01\Ventas\sisadm119\main.prg \\hp-01\ventas\sisadm119\sisadm.exe}
+
+
+Error grave: código de excepción=C0000006 @ 26/04/2017 14:06. Archivo de registro de errores: \\HP-01\Ventas\sisadm119\VFP9Rerr.log
+	Llamado desde -  pventa.load line 59  {\\hp-01\ventas\sisadm119\tab_c_ticket.sct \\hp-01\ventas\sisadm119\tab_c_ticket.sct}
+	Llamado desde -  menug.tbmenu.click line 9  {\\hp-01\ventas\sisadm119\menu.sct \\hp-01\ventas\sisadm119\menu.sct}
+	Llamado desde -  main line 42  {\\HP-01\Ventas\sisadm119\main.prg \\hp-01\ventas\sisadm119\sisadm.exe}
+
+
+Error grave: código de excepción=C0000006 @ 28/04/2017 14:42. Archivo de registro de errores: \\HP-01\Ventas\sisadm119\VFP9Rerr.log
+	Llamado desde -  mventa.vticket.click line 1  {\\hp-01\ventas\sisadm119\cja_m_menu.sct \\hp-01\ventas\sisadm119\cja_m_menu.sct}
+	Llamado desde -  menug.cjmenu.click line 9  {\\hp-01\ventas\sisadm119\menu.sct \\hp-01\ventas\sisadm119\menu.sct}
+	Llamado desde -  main line 42  {\\HP-01\Ventas\sisadm119\main.prg \\hp-01\ventas\sisadm119\sisadm.exe}
+
+
+Error grave: código de excepción=C0000006 @ 20/05/2017 13:26. Archivo de registro de errores: \\HP-01\Ventas\sisadm119\VFP9Rerr.log
+	Llamado desde -  mventa.csalida.click line 1  {\\hp-01\ventas\sisadm119\cja_m_menu.sct \\hp-01\ventas\sisadm119\cja_m_menu.sct}
+	Llamado desde -  menug.cjmenu.click line 9  {\\hp-01\ventas\sisadm119\menu.sct \\hp-01\ventas\sisadm119\menu.sct}
+	Llamado desde -  main line 42  {\\HP-01\Ventas\sisadm119\main.prg \\hp-01\ventas\sisadm119\sisadm.exe}
+
+
+Error grave: código de excepción=C0000005 @ 24/01/2018 12:59. Archivo de registro de errores: \\hp-01\ventas\sisadm119\VFP9Rerr.log
+	Llamado desde -  minventario.rsalida.click line 1  {\\hp-01\ventas\sisadm119\inv_m_menu.sct \\hp-01\ventas\sisadm119\inv_m_menu.sct}
+	Llamado desde -  menug.ipmenu.click line 5  {\\hp-01\ventas\sisadm119\menu.sct \\hp-01\ventas\sisadm119\menu.sct}
+	Llamado desde -  main line 42  {\\hp-01\ventas\sisadm119\main.prg \\hp-01\ventas\sisadm119\sisadm.exe}
+
+
+Error grave: código de excepción=C0000006 @ 24/01/2018 12:59. Archivo de registro de errores: \\hp-01\ventas\sisadm119\VFP9Rerr.log
+	Llamado desde -  minventario.rsalida.click line 1  {\\hp-01\ventas\sisadm119\inv_m_menu.sct \\hp-01\ventas\sisadm119\inv_m_menu.sct}
+	Llamado desde -  menug.ipmenu.click line 5  {\\hp-01\ventas\sisadm119\menu.sct \\hp-01\ventas\sisadm119\menu.sct}
+	Llamado desde -  main line 42  {\\hp-01\ventas\sisadm119\main.prg \\hp-01\ventas\sisadm119\sisadm.exe}
+
+
+Error grave: código de excepción=C0000005 @ 05/03/2021 11:46. Archivo de registro de errores: C:\sisadm119\VFP9Rerr.log
+	Llamado desde -  rentrada.aceptar.click line 123  {c:\sisadm119\inv_r_entrada.sct c:\sisadm119\inv_r_entrada.sct}
+	Llamado desde -  minventario.rentrada.click line 1  {c:\sisadm119\inv_m_menu.sct c:\sisadm119\inv_m_menu.sct}
+	Llamado desde -  menug.ipmenu.click line 5  {c:\sisadm119\menu.sct c:\sisadm119\menu.sct}
+	Llamado desde -  main line 42  {C:\sisadm119\main.prg c:\sisadm119\sisadm.exe}

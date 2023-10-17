@@ -1,0 +1,17 @@
+COPY  *.exe  c:\sisadm119
+COPY  *.DCX  c:\sisadm119
+COPY  *.pjt  c:\sisadm119
+COPY  *.pjx  c:\sisadm119
+COPY  *.BMP  c:\sisadm119
+COPY  *.ICO  c:\sisadm119
+COPY  *.JPG  c:\sisadm119
+COPY  *.MSK  c:\sisadm119
+COPY  *.vct  c:\sisadm119
+COPY  *.vcx  c:\sisadm119
+COPY p_*.dbf  c:\sisadm119
+COPY memop.*  c:\sisadm119
+COPY *.SCx  c:\sisadm119
+COPY *.SCT  c:\sisadm119
+COPY *.PRG  c:\sisadm119
+COPY *.FRT  c:\sisadm119
+COPY *.FRX  c:\sisadm119
