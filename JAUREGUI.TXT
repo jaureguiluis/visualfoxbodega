@@ -1,0 +1,27 @@
+ 01/10/2016    12:07:54                                                                                                 PAG :      1
+                    LOURDES PEDRAZA OBREGON
+                    ENTRADAS AL ALMACEN
+
+                    Del  1 De FEBRERO De 2015  al   5 De FEBRERO De 2015
+    FECHA  FOLIO  PEDIDO     P  R  O  D  U  C  T  O                    CONCEPTO      BULTOS     CANTIDAD  VALOR UNIT.    VALOR TOTAL
+ ====================================================================================================================================
+02/02/2015   9972    0 PAGROTS-N XL       T SALADET N DELIGHT XL/AGROI DEVOLUCION                     30         66.00       1,980.00
+02/02/2015   9971    0 PAGROTS-N XL       T SALADET N DELIGHT XL/AGROI DEVOLUCION                     20         66.00       1,320.00
+02/02/2015   9971    0 PMECSTB-C 5X5      T. BOLA CEUTA 5X5/MENDIVIL M DEVOLUCION                     30         79.75       2,392.50
+02/02/2015   9974    0 PMECSTB-C 5X5      T. BOLA CEUTA 5X5/MENDIVIL M DEVOLUCION                     40         79.75       3,190.00
+02/02/2015   9973    0 PMECSTB-C 5X5      T. BOLA CEUTA 5X5/MENDIVIL M DEVOLUCION                     40         79.75       3,190.00
+02/02/2015   9970    0 PMECSTB-C 5X5      T. BOLA CEUTA 5X5/MENDIVIL M DEVOLUCION                     40         79.75       3,190.00
+03/02/2015   9990    0 PAGROTS-B XL       T SALADET BIG TOM XL/AGROINS DEVOLUCION                     80         58.00       4,640.00
+03/02/2015   9990    0 PHEMEJO            JALAPE¥O/HERNANDEZ MENDOZA J DEVOLUCION        6       165.500          5.00         827.50
+03/02/2015   9905    0 PMECSTS            T SALADET MENDIVIL MARTINEZ  DEVOLUCION                    192                             
+03/02/2015   9994    0 PRENETS            T SALADET/EXPORTALIZAS MEXIC DEVOLUCION                    110                             
+05/02/2015  10088    0 PHEMEJO            JALAPE¥O/HERNANDEZ MENDOZA J DEVOLUCION        4           100          7.30         730.00
+05/02/2015  10088    0 PCRSMC             CEBOLLA/CEBOLLAS SELECTAS RS DEVOLUCION        4           139          5.50         764.50
+05/02/2015   3692    0 PIMTS              T SALADET INTERTOM DE MEXICO DEVOLUCION                     11                             
+05/02/2015   3690    0 PIMTS              T SALADET INTERTOM DE MEXICO DEVOLUCION                    104                             
+05/02/2015   3650    0 PMECSTB-C 4X5      T. BOLA CEUTA 4X5/MENDIVIL M DEVOLUCION                     62                             
+05/02/2015   3652    0 PMECSTB-C 5X5      T. BOLA CEUTA 5X5/MENDIVIL M DEVOLUCION                    128         92.97      11,900.00
+05/02/2015   3653    0 PMECSTB-C 5X5      T. BOLA CEUTA 5X5/MENDIVIL M DEVOLUCION                     60         93.33       5,600.00
+05/02/2015   3654    0 PMECSTB-C 4X5      T. BOLA CEUTA 4X5/MENDIVIL M DEVOLUCION                     77         90.91       7,000.00
+                                                                                   ------- ---------------            ---------------
+                                                                      TOTAL             14       1,428.500                  46,724.50
